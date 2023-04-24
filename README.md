@@ -8,6 +8,6 @@
     An awesome Social media Platform to connect with friends and family
     <br />
     <br />
-    <a href="https://nikitavishwakarma0322.github.io/Social-Media-Website/">View Demo</a>
+    <a href="https://nikitavishwakarma0322.github.io/Social-Media-Website/" target="_blank">View Demo</a>
   </p>
 </div>
